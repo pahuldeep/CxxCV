@@ -20,3 +20,4 @@ cvPixelate
 videoSaver
 
 .gitignore
+CMakeLists.txt.user
